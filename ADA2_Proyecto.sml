@@ -1,3 +1,12 @@
+(* 
+Integrantes
+
+Wilbert Díaz Gómez
+Rodrigo Joaquín Pacab Canul
+Orlando Isaías Rodríguez Couoh
+ *)
+
+
 datatype suit = Clubs | Diamonds | Hearts | Spades
 datatype rank = Jack | Queen | King | Ace | Num of int
 type card = suit * rank
